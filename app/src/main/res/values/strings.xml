@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tatty</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan_tattoo">Scan Tattoo</string>
+    <string name="tattoo_name">Tattoo Name: </string>
+    <string name="tattoo_message">Tattoo Message: </string>
+    <string name="username">Username: </string>
+    <string name="id_number">UID: </string>
+    <string name="title_activity_my_tattoos">My Tattoos</string>
+    <string name="tag_failure">Tag Failed</string>
+    <string name="info_no_tag_found">No Tag Found</string>
+    <string name="dialog_nfc_not_enabled_title">NFC Problem</string>
+    <string name="dialog_nfc_not_enabled">NFC not enabled</string>
+    <string name="action_nfc">Turn on NFC</string>
+    <string name="action_exit_app">Exit App</string>
+    <string name="dialog_no_mfc_support_device">Missing Device</string>
+    <string name="dialog_no_mfc_support_device_title">No MiFare Classic Support</string>
+    <string name="action_continue">Continue</string>
+    <string name="change_image">Change Image</string>
+    <string name="new_photo">New Photo</string>
+    <string name="existing_photo">Existing Photo</string>
+    <string name="title_activity_login">Log in or Sign up</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_short">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_field_required">Field REquired</string>
+    <string name="error_invalid_email">Invalid Email</string>
+</resources>
