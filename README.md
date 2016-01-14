@@ -16,7 +16,7 @@ There are 4 screens:
 -a name and message given to it--these are modifiable if the tattoo belongs to you.
 
 4. MyTattoosActivity
-- a list pulled from the database of your tattoos, which are represented as:
+-a list pulled from the database of your tattoos, which are represented as:
 _________________
 tattooName
 tattooMessage
